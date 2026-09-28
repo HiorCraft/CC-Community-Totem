@@ -137,6 +137,20 @@
           "model": "plushies:item/totem_of_undying_hiorcraft"
         }
       },
+      {
+        "when": "Red",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/totem_of_undying_red"
+        }
+      },
+      {
+        "when": "Nike",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/totem_of_undying_nike"
+        }
+      },
        {
         "when": "Pumpe",
         "model": {
@@ -163,6 +177,27 @@
         "model": {
           "type": "minecraft:model",
           "model": "plushies:item/totem_of_undying_xapfeltortexp"
+        }
+      },
+      {
+        "when": "Gesturesking",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/totem_of_undying_gesturesking"
+        }
+      },
+      {
+        "when": "Satar",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/totem_of_undying_satar"
+        }
+      },
+      {
+        "when": "Dorlino",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/totem_of_undying_dorlino"
         }
       },
       {
